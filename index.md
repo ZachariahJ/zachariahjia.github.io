@@ -48,4 +48,4 @@ Grand Rapids, MI \| (616) 256 - 4349 \| [jiazhiao2005@gmail.com](mailto:jiazhiao
 ### CERTIFICATIONS
 
 - **PCB Basic Design Course**, Altium Education \| April 2026
-- **HubSpot Data Integrations Certified**, HubSpot Academy \| Mar 2026
+- **HubSpot Data Integrations Certified**, HubSpot Academy \| March 2026
