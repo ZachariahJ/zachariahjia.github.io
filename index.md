@@ -1,5 +1,5 @@
 ---
-title: Zachariah Jia
+title: Zhiao (Zachariah) Jia
 ---
 
 <a href="{{ '/zachariahjia.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download CV as PDF</a>
