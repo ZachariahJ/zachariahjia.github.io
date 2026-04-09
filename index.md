@@ -2,7 +2,7 @@
 title: Zhiao (Zachariah) Jia
 ---
 
-<a href="{{ '/zachariahjia.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download CV as PDF</a>
+<a href="{{ '/zachariahjia0408.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download CV as PDF</a>
 
 Grand Rapids, MI \| (616) 256 - 4349 \| [jiazhiao2005@gmail.com](mailto:jiazhiao2005@gmail.com) \| [linkedin.com/in/zachariah-jia](https://www.linkedin.com/in/zachariah-jia/)
 
