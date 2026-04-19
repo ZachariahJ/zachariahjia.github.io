@@ -2,7 +2,7 @@
 title: Zhiao (Zachariah) Jia
 ---
 
-<a href="{{ '/zachariahjia0408.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download CV as PDF</a>
+<a href="{{ '/ZachariahJia.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Download CV as PDF</a>
 
 Grand Rapids, MI \| (616) 256 - 4349 \| [jiazhiao2005@gmail.com](mailto:jiazhiao2005@gmail.com) \| [linkedin.com/in/zachariah-jia](https://www.linkedin.com/in/zachariah-jia/)
 
@@ -47,5 +47,6 @@ Grand Rapids, MI \| (616) 256 - 4349 \| [jiazhiao2005@gmail.com](mailto:jiazhiao
 
 ### CERTIFICATIONS
 
+- **Getting Started with AI on Jetson Nano**, NVIDIA \| April 2026
 - **PCB Basic Design Course**, Altium Education \| April 2026
 - **HubSpot Data Integrations Certified**, HubSpot Academy \| March 2026
